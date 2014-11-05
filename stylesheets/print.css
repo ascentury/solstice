@@ -56,6 +56,7 @@ a {
 header {
   padding-top: 35px;
   padding-bottom: 10px;
+  font-family: "Apple Gothic",AppleGothic,"Century Gothic","URW Gothic L","Avant Garde",Futura,sans-serif;
 }
 
 header h1 {
@@ -81,7 +82,7 @@ header h2 {
 }
 
 code, pre {
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal;
+  font-family: Inconsolata, Consolas, "Bitstream Vera Sans Mono", "Lucida Console", Terminal;
   color: #222;
   margin-bottom: 30px;
   font-size: 12px;
